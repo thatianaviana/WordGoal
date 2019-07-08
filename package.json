@@ -9,7 +9,7 @@
     "url": "https://github.com/OSP123/TravelSecure"
   },
   "scripts": {
-    "start": "nodemon ./bin/www" 
+    "start": "node ./bin/www" 
   },
   "repository": {
     "type": "git",
